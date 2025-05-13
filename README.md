@@ -7,3 +7,4 @@ Este repositório reúne meus estudos práticos e teóricos em cibersegurança, 
 - [TryHackMe](https://tryhackme.com)
 - [RangeForce](https://rangeforce.com)
 - [Cybrary](https://www.cybrary.it)
+- [Security Blue](https://www.securityblue.team)
