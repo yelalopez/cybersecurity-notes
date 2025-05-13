@@ -1,6 +1,6 @@
 # Cybersecurity Notes
 
-Este repositório reúne meus estudos práticos e teóricos em cibersegurança, com foco em aprender, aplicar e domumentar meus conhecimentos para ingressar na área de segurança da informação.
+Este repositório reúne meus estudos práticos e teóricos em cibersegurança, com foco em aprender, aplicar e documentar meus conhecimentos para ingressar na área de segurança da informação.
 
 ## Plataformas
 
